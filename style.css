@@ -1,0 +1,40 @@
+
+
+main{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Custome Design  */
+
+
+.container{
+    /* margin-bottom: 100px; */
+}
+
+
+/* Button Design */
+.green-link-button, #sign-in{
+    border: none;
+    background-color: #21B573;
+    color: #FFFFFF;
+    border-radius: 33px;
+    font-weight: normal;
+    padding: 12px 36px;
+}
+
+
+.nav-item{
+    padding-left: 40px;
+}
+
+.header-section{
+    background-color: #F0FFF0;
+}
+
+.top-section{
+    margin-top: 70px;
+    margin-bottom: 50px;
+
+}
+
