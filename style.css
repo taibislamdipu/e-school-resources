@@ -12,6 +12,11 @@ main{
     margin-bottom: 100px;
 }
 
+.title-heading{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
 
 /* Button Design */
 .green-link-button, #sign-in{
@@ -85,4 +90,18 @@ main{
     border-radius: 10px;
     box-shadow: 0px 0px 34px -15px rgba(0,0,0,0.59);
 }
+
+
+/* testimonial */
+.testimonial img{
+    width: 120px;
+    height: 120px;
+    margin-right: 10px;
+}
+
+.testimonial{
+    height: 200px;
+}
+
+
 
