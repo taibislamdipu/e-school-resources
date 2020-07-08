@@ -103,5 +103,33 @@ main{
     height: 200px;
 }
 
+/* footer */
+footer{
+    height: auto;
+    background-color: #282531;
+    color: #fff;
+}
+
+.copyright-bottom{
+    text-align: center;
+    background-color: #282531;
+    color: #fff;
+    
+
+}
+
+.footer-list-heading{
+    font-weight: bold;
+}
+
+.footer-list ul li{
+    list-style: none;
+    line-height: normal;
+}
+
+.footer-block{
+    padding: 120px;
+}
+
 
 
