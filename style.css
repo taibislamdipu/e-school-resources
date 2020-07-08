@@ -9,6 +9,10 @@ main{
 
 
 .container{
+    /* margin-bottom: 100px; */
+}
+
+.content-block{
     margin-bottom: 100px;
 }
 
@@ -28,6 +32,15 @@ main{
     padding: 12px 36px;
 }
 
+.green-link-button:hover {
+    box-shadow: 0px 0px 36px -5px #21B573;
+    transition: 0.2s;
+    color: black;
+}
+
+#sign-in:hover{
+    color: black;
+}
 
 .nav-item{
     padding-left: 40px;
@@ -35,6 +48,7 @@ main{
 
 .header-section{
     background-color: #F0FFF0;
+    
 }
 
 .top-section{
@@ -46,6 +60,10 @@ main{
 
 
 /* achievement section */
+.achievement{
+    padding-top: 100px;
+}
+
 .achievement img{
     width: 100px;
     padding: 15px;
@@ -100,7 +118,7 @@ main{
 }
 
 .testimonial{
-    height: 200px;
+    height: 300px;
 }
 
 /* footer */
@@ -114,6 +132,7 @@ footer{
     text-align: center;
     background-color: #282531;
     color: #fff;
+    display: inline-block;
     
 
 }
@@ -128,7 +147,7 @@ footer{
 }
 
 .footer-block{
-    padding: 120px;
+    padding: 120px 120px 50px 120px;
 }
 
 
