@@ -9,7 +9,7 @@ main{
 
 
 .container{
-    /* margin-bottom: 100px; */
+    margin-bottom: 100px;
 }
 
 
@@ -37,4 +37,32 @@ main{
     margin-bottom: 50px;
 
 }
+
+
+
+/* achievement section */
+.achievement img{
+    width: 100px;
+    padding: 15px;
+}
+
+.item-1{
+    background-color: #F8FFFB;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    height: 270px;
+    width: 270px;
+    
+}
+
+.item-1:hover{
+    background-color: #fff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 34px -15px rgba(0,0,0,0.59);
+    transition: 0.2s;
+}
+
 
